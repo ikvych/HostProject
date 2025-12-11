@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "HostProject"
 include(":app")
-include(":core:app")
