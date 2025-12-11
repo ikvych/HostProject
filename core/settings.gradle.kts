@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "HostProject"
+rootProject.name = "CoreProject"
 include(":app")
-include(":core:app")
+ 

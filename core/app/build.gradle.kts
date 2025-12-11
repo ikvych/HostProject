@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "ikvych.hostproject"
+    namespace = "ikvych.coreproject"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "ikvych.hostproject"
+        applicationId = "ikvych.coreproject"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
